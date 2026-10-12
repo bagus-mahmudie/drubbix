@@ -1,29 +1,29 @@
 # Drubbix.id
 
-Website Drubbix yang menampilkan layanan pengangkutan sampah, produk maggot, dan artikel pengelolaan sampah.
+Drubbix website featuring waste collection services, maggot products, and waste management articles.
 
-**Status:** Live · [Buka website](https://drubbix.id/)
+**Status:** Live · [Visit website](https://drubbix.id/)
 
-## Fitur
+## Features
 
-- Informasi layanan pengangkutan sampah
-- Halaman produk maggot
-- Artikel edukasi dan profil perusahaan
+- Waste collection service information
+- Maggot product pages
+- Educational articles and company profile
 
-## Teknologi
+## Technology
 
 HTML, CSS, JavaScript.
 
-## Menjalankan secara lokal
+## Running Locally
 
-Jalankan server HTTP dari folder proyek, lalu buka `beranda.html`. Contoh menggunakan PHP yang tersedia bersama XAMPP:
+Start an HTTP server from the project directory, then open `beranda.html`. For example, using the PHP installation bundled with XAMPP:
 
 ```sh
 php -S localhost:8000
 ```
 
-Buka [localhost:8000](http://localhost:8000).
+Open [localhost:8000](http://localhost:8000).
 
-## Catatan repository
+## Repository Notes
 
-Dependensi terpasang, cache, file `.env`, database, dan unggahan pengguna tidak disertakan. Nama merek dan aset pihak ketiga tetap mengikuti hak pemiliknya. Tidak ada lisensi penggunaan ulang yang diberikan melalui repository ini.
+Installed dependencies, caches, `.env` files, databases, and user uploads are not included. Brand names and third-party assets remain subject to their respective owners' rights. This repository does not grant a license for reuse.
