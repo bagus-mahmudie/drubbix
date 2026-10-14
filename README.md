@@ -4,6 +4,10 @@ Drubbix website featuring waste collection services, maggot products, and waste 
 
 **Status:** Live · [Visit website](https://drubbix.id/)
 
+## Preview
+
+[![Drubbix.id — application preview](docs/screenshots/project-preview.png)](docs/screenshots/project-preview.png)
+
 ## Features
 
 - Waste collection service information
